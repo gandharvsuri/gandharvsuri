@@ -3,7 +3,7 @@
  <a href="https://www.linkedin.com/in/gandharvsuri" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/linkedin.png" width="60" height="60" />
  </a>
-  https://img.icons8.com/fluent/60/000000/mail.png
+
 <a href="mailto:gandharvsuri@gmail.com" target="_blank">
   <img src="https://img.icons8.com/fluent/60/000000/mail.png" width="60" height="60" />
  </a>
